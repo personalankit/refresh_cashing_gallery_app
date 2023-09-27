@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Spectral-BoldItalic.ttf",
+      "sha1": "96b1ce3d89a36dd06c9e5c5bec2f1d5f23d40de4"
+    },
+    {
+      "path": "assets/fonts/Vidaloka-Regular.ttf",
+      "sha1": "6594a0bcbb872f642b1735c747427f74bdd41b60"
+    }
+  ]
+}
